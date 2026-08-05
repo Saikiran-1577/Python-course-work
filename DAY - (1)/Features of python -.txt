@@ -1,0 +1,21 @@
+Features of python -
+1.Simple to use
+2.Multithreading
+3.Supports Web Development-Using frame works like Django, flask,FastAPI
+4.Supports Networking
+5.Platform independent
+6.Open Sorce and Beginer friendly
+7.Object oriented programming 
+8.Supports large libraries
+9.Extensible
+10.Supports for Ai and ML
+
+
+OOPS CONCEPTS
+ 
+1.CLASS- It is a blueprint and combination of methods and attributes.
+2.OBJECT - Instance of the class.
+3.POLYMORPHISM- Many types of different forms.
+4.INHERITENCE- Acquiring properties from the Parent class to the child class.
+5.ENCAPSULATION- Wrapping the data and methods into single unit.
+6.ABSTRACTION-Hiding the complexities

@@ -1,0 +1,34 @@
+Tokens
+------
+Smallest unit of a program 
+
+There are 5 types of tokens 
+
+1. Identifier
+2. Operators
+3. Literal
+4. keywords
+5. punctuations
+
+
+Identifier
+---------
+1. contains uppercase, lowercase , digits, _
+2. no special character is allowed
+3. identifier can starts with uppercase, lowercase and _ but not with digits
+4. keywords are not allowed
+5. it is case sensitive
+
+Variable
+--------
+it is a container to store the values  
+
+Comments
+#single line comment
+'''
+multiline
+comment
+'''
+
+Keywords
+-------
