@@ -1,0 +1,83 @@
+Data Types in Python
+
+Numerical datatypes :int float complex
+Sequence datatypes : list tuple str
+mapping datatypes : set dict
+Boolean datatypes : True,False
+NoneType (emptyvalue)
+
+
+Int datatype
+------------
+it is a number
+eg: x=10
+
+Float datatype
+-------------
+it is a number with a decimal point
+eg: x=1.34
+
+complex datatype
+---------------
+it is a value with a real and imaginary part 
+eg : x= 3+6j
+
+
+
+LIST datatype
+-------------
+collections of elements in a Square braces 
+ it is mutable 
+ it is dynamically sized
+ it is heterogetic
+ it is ordered
+ 
+
+String 
+----------
+collections of characters in a single or double quotes
+ it is mutable (memory address changes when its modified)
+ex : b="saikiran"
+
+Tuple
+------
+collections of elements in a parenthesis
+it is immutable 
+it is fixed size 
+it is heterogetic
+it will allow duplicates
+it is ordered
+ex : t = (1,2,3,4)
+
+
+Set
+------
+it is a collection of unique elements enclosed in curly braces
+it does not allow duplicates
+it is unordered
+it is dynamically sized
+it is heterogenous
+it is mutable
+ex : S = {2,3,4,5}
+
+Dict
+-----
+it is a collection of key value pairs
+it is mutable
+values can be duplicates , not keys
+it is ordered 
+it is heterogenous
+it is dynamically sized
+ex : D = {'name':'sai kiran','Age':'20'}
+
+Boolean
+-------------
+it is True or False
+ex:
+a = True
+b = False
+
+None
+---------
+it is used to declare empty variable 
+ex : a = None 
